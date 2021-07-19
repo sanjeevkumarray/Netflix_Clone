@@ -25,3 +25,7 @@ See the section about deployment for more information.
 
 
 ![image](https://user-images.githubusercontent.com/53333326/126135817-5929c351-512d-4722-af62-6458963b0e56.png)
+
+
+DEPLOY ONLINE LINK
+https://sanjeevkumarray.github.io/Netflix_Clone/
